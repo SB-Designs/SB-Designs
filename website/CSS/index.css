@@ -370,3 +370,44 @@ ul li {
   font-size: 1.2rem;
   /* Adjust font size as needed */
 }
+
+/* Hide the default cursor */
+body {
+    cursor: none;
+    overflow: hidden; /* Prevents cursor from extending the page */
+}
+
+/* Custom cursor styling */
+.custom-cursor {
+    position: fixed;
+    width: 20px; /* Initial size */
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    pointer-events: none;
+    transition: width 0.2s ease, height 0.2s ease, transform 0.2s ease;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+}
+
+/* Hide cursor on links, buttons, and the menu button */
+a:hover ~ .custom-cursor, button:hover ~ .custom-cursor, .menu-icon + label:hover ~ .custom-cursor {
+    width: 60px;
+    height: 60px;
+    transform: translate(-50%, -50%) scale(1.5);
+}
+
+a:hover, button:hover, .menu-icon + label:hover {
+    cursor: none !important; /* Hide the default cursor on hover */
+}
+
+/* Hide the cursor on mobile devices (screens smaller than 991px) */
+@media screen and (max-width: 991px) {
+    .custom-cursor {
+        display: none; /* Hide custom cursor */
+    }
+
+    body {
+        cursor: auto; /* Restore default cursor on mobile */
+    }
+}

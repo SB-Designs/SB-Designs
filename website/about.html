@@ -39,6 +39,22 @@
   </main>
 
   <!-- Footer Section (optional, for future content) -->
+     <!-- Custom Cursor -->
+  <div class="custom-cursor"></div>
+  <script>
+  document.addEventListener('mousemove', function(e) {
+      const cursor = document.querySelector('.custom-cursor');
+
+      // Get mouse coordinates, adjust for boundaries
+      let x = e.clientX;
+      let y = e.clientY;
+
+      // Move cursor element to mouse position
+      cursor.style.left = x + 'px';
+      cursor.style.top = y + 'px';
+  });
+  </script>
+  <!-- Custom Cursor End -->
 </body>
 
 </html>
