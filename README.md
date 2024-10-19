@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/183851309?v=4" height="70">
+<h1>SB Designs</h1>
 
-<!--
-**SB-Designs/SB-Designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Website: https://sbdesigns.pages.dev
+- Main Email: hello@sbdesigns.serv00.net
+- Email SB: sb@sbdesigns.serv00.net
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-designs&theme=radical&title_color=8E2DE2&text_color=fff)
