@@ -7,6 +7,7 @@
 - Email SB: sb@sbdesigns.serv00.net
 
 <h2>Languages:</h2>
+
 ![HTML](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![JS](https://img.shields.io/badge/-JS-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
