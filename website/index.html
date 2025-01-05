@@ -51,7 +51,7 @@
   <!-- Footer Section (optional, for future content) -->
   <footer>
     <center>
-      <p>Copyright &copy; 2024 SB Designs | All rights reserved.<br>
+      <p>Copyright &copy; <span id="year"></span> SB Designs | All rights reserved.<br>
         The name SB Designs and its logo are trademarks of SB Designs.</p>
     </center>
   </footer>
@@ -69,6 +69,10 @@
         cursor.style.left = x + 'px';
         cursor.style.top = y + 'px';
     });
+    </script>
+    <script>
+      // Get the current year and update the footer
+      document.getElementById("year").textContent = new Date().getFullYear();
     </script>
     <!-- Custom Cursor End -->
 </body>
