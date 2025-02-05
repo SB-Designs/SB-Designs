@@ -12,3 +12,4 @@
 ![CSS](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![JS](https://img.shields.io/badge/-JS-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![Python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![Astro](https://img.shields.io/badge/-astro-grey?style=for-the-badge&logo=astro&logoColor=white&labelColor=8E2DE2)
