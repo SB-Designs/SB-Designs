@@ -4,8 +4,7 @@
 <h2>Contact</h2>
 
 - Website: https://sbdesigns.pages.dev
-- Main Email: hello@sbdesigns.serv00.net
-- Email SB: sb@sbdesigns.serv00.net
+- Email: hello@sbdesigns.spike.team
 
 <h2>Languages:</h2>
 
