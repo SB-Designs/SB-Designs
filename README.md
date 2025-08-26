@@ -23,7 +23,7 @@ WhatsApp: +447484828585
 🖨️ HP LaserJet P1005
 
 <h4>Keyboard/Mouse</h4>
-🖱️ HP 150
+🖱️ HP 150<br>
 ⌨️ HP 225
 
 <h4>TV Devices</h4>
