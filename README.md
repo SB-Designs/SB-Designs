@@ -36,7 +36,7 @@ WhatsApp: +447484828585
 📷 Sony ...
 
 <h4>Headphones/Speakers</h4>
-🎧 AKG N60NC (Thai Airways Business Class Headphones)
+🎧 AKG N60NC (Thai Airways Business Class Headphones)<br>
 🎧 John Lewis Blootooth Heaphones<br>
 🎧 Pantone PT-WH008<br>
 🎧 Swiss Peak 3W Bass Speaker
