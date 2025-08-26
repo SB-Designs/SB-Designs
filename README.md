@@ -14,7 +14,6 @@ WhatsApp: +447484828585
 💻 ASUS ZenBook 13 UX333 (Intel Core i5)<br>
 💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)
 
-
 <h4>Phones</h4>
 📱 Apple iPhone 5S<br>
 📱 Motorola E13
@@ -23,25 +22,33 @@ WhatsApp: +447484828585
 🖨️ Epson EcoTank ET-2600<br>
 🖨️ HP LaserJet P1005
 
+<h4>Keyboard/Mouse</h4>
+🖱️ HP 150
+⌨️ HP 225
+
 <h4>TV Devices</h4>
-📺 GGMZ Stream Lite Android TV Box
-📺 Google Chromecast (2nd Generation)<br>
+📺 GGMZ Stream Lite Android TV Box<br>
+📺 Google Chromecast (2nd Generation)
 
 <h4>Cameras</h4>
-📷 
-📷 
-📷 
-<h4>Headphones</h4>
-🎧 Pantone 
-🎧
-🎧
+📷 Panasonic Lumix ...<br>
+📷 Panasonic ...<br>
+📷 Sony ...
+
+<h4>Headphones/Speakers</h4>
+🎧 AKG N60NC (Thai Airways Business Class Headphones)
+🎧 John Lewis Blootooth Heaphones<br>
+🎧 Pantone PT-WH008<br>
+🎧 Swiss Peak 3W Bass Speaker
 
 <h4>Microphones</h4>
-🎙️
-🎙️
+🎙️ Trust GXT 212 Mico<br>
+🎙️ Trust GXT 232 Mantis
 
 <h4>Drawing Tablets</h4>
-✏️ 
-✏️ 
+✏️ Airpad ...<br>
+✏️ Wacom CTH-460
 
 <h4>Misc.</h4>
+⏯️ Logitech R400 Wireless Presentation Remote<br>
+𝄃𝄃𝄂 Tera T5100C Barcode Scanner
