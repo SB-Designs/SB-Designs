@@ -8,6 +8,40 @@ Hello, I'm Sebastian! I'm an app/web dev and graphic designer from London and ma
 Email: hello@sbdesigns.is-a.dev<br>
 WhatsApp: +447484828585
 
-<h2>My Devices</h2>
+<h2>Devices</h2>
+<h4>Laptops</h4>
+💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U)<br>
+💻 ASUS ZenBook 13 UX333 (Intel Core i5)<br>
 💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)
-💻 ASUS ZenBook 13 UX333
+
+
+<h4>Phones</h4>
+📱 Apple iPhone 5S<br>
+📱 Motorola E13
+
+<h4>Printers</h4>
+🖨️ Epson EcoTank ET-2600<br>
+🖨️ HP LaserJet P1005
+
+<h4>TV Devices</h4>
+📺 GGMZ Stream Lite Android TV Box
+📺 Google Chromecast (2nd Generation)<br>
+
+<h4>Cameras</h4>
+📷 
+📷 
+📷 
+<h4>Headphones</h4>
+🎧 Pantone 
+🎧
+🎧
+
+<h4>Microphones</h4>
+🎙️
+🎙️
+
+<h4>Drawing Tablets</h4>
+✏️ 
+✏️ 
+
+<h4>Misc.</h4>
