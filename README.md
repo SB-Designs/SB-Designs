@@ -31,12 +31,12 @@ WhatsApp: +447484828585
 📺 Google Chromecast (2nd Generation)
 
 <h4>Cameras</h4>
-📷 Panasonic Lumix ...<br>
-📷 Panasonic ...<br>
-📷 Sony ...
+📷 Leica C-Lux 3<br>
+📷 Panasonic HX-WA30<br>
+📷 Panasonic Lumix DMC-TZ18
 
 <h4>Headphones/Speakers</h4>
-🎧 AKG N60NC (Thai Airways Business Class Headphones)<br>
+🎧 AKG N60NC (Thai Airways)<br>
 🎧 John Lewis Blootooth Heaphones<br>
 🎧 Pantone PT-WH008<br>
 🎧 Swiss Peak 3W Bass Speaker
@@ -46,7 +46,7 @@ WhatsApp: +447484828585
 🎙️ Trust GXT 232 Mantis
 
 <h4>Drawing Tablets</h4>
-✏️ Airpad ...<br>
+✏️ Awind WePresent AirPad TWL530<br>
 ✏️ Wacom CTH-460
 
 <h4>Misc.</h4>
