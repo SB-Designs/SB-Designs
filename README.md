@@ -24,6 +24,7 @@ WhatsApp: +447484828585
 🖨️ HP LaserJet P1005
 
 <h4>Keyboard/Mouse</h4>
+⌨️ Apple Magic Keyboard<br>
 🖱️ HP 150<br>
 ⌨️ HP 225
 
