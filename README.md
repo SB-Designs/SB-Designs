@@ -9,10 +9,11 @@ Email: hello@sbdesigns.is-a.dev<br>
 WhatsApp: +447484828585
 
 <h2>Tech List</h2>
-<h4>Laptops</h4>
+<h4>Laptops/Tablets</h4>
 💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U)<br>
 💻 ASUS ZenBook 13 UX333 (Intel Core i5)<br>
-💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)
+💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)<br>
+💻 Apple iPad Generation 5
 
 <h4>Phones</h4>
 📱 Apple iPhone 5S<br>
@@ -47,9 +48,10 @@ WhatsApp: +447484828585
 🎙️ Trust GXT 212 Mico<br>
 🎙️ Trust GXT 232 Mantis
 
-<h4>Drawing Tablets</h4>
+<h4>Styluses</h4>
 ✏️ Awind WePresent AirPad TWL530<br>
 ✏️ Wacom CTH-460
+✏️ Apple Pencil Generation 1
 
 <h4>Misc.</h4>
 ⏯️ Logitech R400 Wireless Presentation Remote<br>
