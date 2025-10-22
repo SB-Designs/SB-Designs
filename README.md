@@ -27,7 +27,8 @@ WhatsApp: +447484828585
 <h4>Keyboard/Mouse</h4>
 ⌨️ Apple Magic Keyboard<br>
 🖱️ HP 150<br>
-⌨️ HP 225
+⌨️ HP 225<br>
+⌨️ Logitech 920-006341 iPad Keyboard
 
 <h4>TV Devices</h4>
 📺 GGMZ Stream Lite Android TV Box<br>
@@ -49,9 +50,9 @@ WhatsApp: +447484828585
 🎙️ Trust GXT 232 Mantis
 
 <h4>Styluses</h4>
+✏️ Apple Pencil Generation 1<br>
 ✏️ Awind WePresent AirPad TWL530<br>
 ✏️ Wacom CTH-460
-✏️ Apple Pencil Generation 1
 
 <h4>Misc.</h4>
 ⏯️ Logitech R400 Wireless Presentation Remote<br>
