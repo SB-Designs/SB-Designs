@@ -13,7 +13,8 @@ WhatsApp: +447484828585
 💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U)<br>
 💻 Apple iPad Generation 5<br>
 💻 ASUS ZenBook 13 UX333 (Intel Core i5)<br>
-💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)
+💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)<br>
+💻 MacBook Air (13-inch, Early 2015) 
 
 <h4>Phones</h4>
 📱 Apple iPhone 5s<br>
