@@ -45,7 +45,8 @@ WhatsApp: +447484828585
 <h4>Headphones/Speakers</h4>
 🎧 Air Canada Economy Class Earbuds (x8)<br>
 🎧 AKG N60NC (Thai Airways)<br>
-🎧 John Lewis Blootooth Heaphones<br>
+🎧 John Lewis JL H1 Headphones GYDK<br>
+🎧 John Lewis JL H2 OnEar BK<br>
 🎧 Pantone PT-WH008<br>
 🎧 Samsung EHS61ASFWE<br>
 🔈 Swiss Peak 3W Bass Speaker
