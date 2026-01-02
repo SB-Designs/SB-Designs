@@ -16,9 +16,10 @@ WhatsApp: +447484828585
 💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)
 
 <h4>Phones</h4>
-📱 Apple iPhone 5S<br>
+📱 Apple iPhone 5s<br>
 📱 Motorola Moto E13<br>
-📱 Motorola Moto G05
+📱 Motorola Moto G05<br>
+📱 Nokia C02
 
 <h4>Printers</h4>
 🖨️ Epson EcoTank ET-2600<br>
@@ -29,6 +30,7 @@ WhatsApp: +447484828585
 🖱️ HP 150<br>
 ⌨️ HP 225<br>
 ⌨️ Logitech 920-006341 iPad Keyboard
+🖱️ Wireless Mouse (Unbranded)<br>
 
 <h4>TV Devices</h4>
 📺 GGMZ Stream Lite Android TV Box<br>
@@ -40,10 +42,12 @@ WhatsApp: +447484828585
 📷 Panasonic Lumix DMC-TZ18
 
 <h4>Headphones/Speakers</h4>
+🎧 Air Canada Economy Class Earbuds (x8)<br>
 🎧 AKG N60NC (Thai Airways)<br>
 🎧 John Lewis Blootooth Heaphones<br>
 🎧 Pantone PT-WH008<br>
-🎧 Swiss Peak 3W Bass Speaker
+🎧 Samsung EHS61ASFWE<br>
+🔈 Swiss Peak 3W Bass Speaker
 
 <h4>Microphones</h4>
 🎙️ Trust GXT 212 Mico<br>
