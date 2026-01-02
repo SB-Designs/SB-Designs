@@ -21,7 +21,7 @@ WhatsApp: +447484828585
 📱 Apple iPhone 5s<br>
 📱 Motorola Moto E13<br>
 📱 Motorola Moto G05<br>
-📱 Nokia C02
+📱 Nokia C01 Plus
 
 <h4>Printers</h4>
 🖨️ Epson EcoTank ET-2600<br>
