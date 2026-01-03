@@ -31,8 +31,8 @@ WhatsApp: +447484828585
 ⌨️ Apple Magic Keyboard<br>
 🖱️ HP 150<br>
 ⌨️ HP 225<br>
-⌨️ Logitech 920-006341 iPad Keyboard
-🖱️ Wireless Mouse (Unbranded)<br>
+⌨️ Logitech 920-006341 iPad Keyboard<br>
+🖱️ Wireless Mouse (Unbranded)
 
 <h4>TV Devices</h4>
 📺 GGMZ Stream Lite Android TV Box<br>
