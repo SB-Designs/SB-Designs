@@ -13,18 +13,18 @@ WhatsApp: +447484828585
 <h2>Tech List</h2>
 <p>I love collecting old tech, and repurposing it!</p>
 <h4>Laptops/Tablets</h4>
-💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U)<br>
-💻 Apple iPad 1st Generation<br>
-💻 Apple iPad 5th Generation<br>
-💻 ASUS ZenBook 13 UX333 (Intel Core i5)<br>
-💻 Lenovo IDEAPAD Slim 5i (Intel Core i5)<br>
-💻 MacBook Air (13-inch, Early 2015) 
+💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U) - Linux Debian 13<br>
+💻 Apple iPad 1st Generation - iPadOS 12<br>
+💻 Apple iPad 5th Generation - iPadOS 16<br>
+💻 ASUS ZenBook 13 UX333 (Intel Core i5) - Windows 11<br>
+💻 Lenovo IDEAPAD Slim 5i (Intel Core i5) - Windows 11<br>
+💻 MacBook Air (13-inch, Early 2015) - MacOS
 
 <h4>Phones</h4>
-📱 Apple iPhone 5s<br>
-📱 Motorola Moto E13<br>
-📱 Motorola Moto G05<br>
-📱 Nokia C01 Plus
+📱 Apple iPhone 5s - iOS 12<br>
+📱 Motorola Moto E13 - Android 13<br>
+📱 Motorola Moto G05 - Android 15<br>
+📱 Nokia C01 Plus - Android 11
 
 <h4>Printers</h4>
 🖨️ Epson EcoTank ET-2600<br>
