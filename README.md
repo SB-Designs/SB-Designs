@@ -33,6 +33,7 @@ WhatsApp: +447484828585
 
 <h4>Keyboard/Mouse</h4>
 ⌨️ Apple Magic Keyboard<br>
+⌨️ Dell KB216 RX6RM <br>
 🖱️ HP 150<br>
 ⌨️ HP 225<br>
 🖱️ Tronic Wireless Mouse<br>
