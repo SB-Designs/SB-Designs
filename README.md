@@ -24,7 +24,8 @@ WhatsApp: +447484828585
 📱 Motorola Moto E13 - Android 13<br>
 📱 Motorola Moto G05 - Android 15<br>
 📱 Nokia C01 Plus - Android 11 Go Edition<br>
-📱 Redmi Note 5 - Android 9
+📱 Redmi Note 5 - Android 9<br>
+📱 Samsung Galaxy On5 - Android 5
 
 <h4>Printers</h4>
 🖨️ Epson EcoTank ET-2600<br>
