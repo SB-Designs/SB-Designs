@@ -2,7 +2,7 @@
 <h1>SB Designs</h1>
 
 <h2>About</h2>
-Hello, I'm Sebastian! I'm an app/web dev and graphic designer from London and make lots of projects about transport as I love planes and trains. I founded SB Designs in 2022 and I'm experienced in HTML, CSS, JS and Python, plus I'm learning other JS libraries and frameworks.<br>
+Hello, I'm Sebastian! I'm an app/web dev and graphic designer from London and make lots of projects about transport as I love planes and trains. I founded SB Designs in 2022 and I'm experienced in HTML, CSS, JS and Python, plus I'm learning other JS libraries and frameworks.<br><br>
 
 Currently studying GCSE Computer Science (OCR J277).
 
@@ -11,20 +11,19 @@ Email: hello@sbdesigns.is-a.dev<br>
 WhatsApp: +447484828585
 
 <h2>Tech List</h2>
-<p>I love collecting old tech, and repurposing it!</p>
 <h4>Laptops/Tablets</h4>
 💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U) - Linux Debian 13<br>
 💻 Apple iPad 1st Generation - iPadOS 12<br>
 💻 Apple iPad 5th Generation - iPadOS 16<br>
 💻 ASUS ZenBook 13 UX333 (Intel Core i5) - Windows 11<br>
 💻 Lenovo IDEAPAD Slim 5i (Intel Core i5) - Windows 11<br>
-💻 MacBook Air (13-inch, Early 2015) - MacOS
+💻 MacBook Air (13-inch, Early 2015) - MacOS Sierra
 
 <h4>Phones</h4>
 📱 Apple iPhone 5s - iOS 12<br>
 📱 Motorola Moto E13 - Android 13<br>
 📱 Motorola Moto G05 - Android 15<br>
-📱 Nokia C01 Plus - Android 11
+📱 Nokia C01 Plus - Android 11 Go Edition
 
 <h4>Printers</h4>
 🖨️ Epson EcoTank ET-2600<br>
@@ -34,6 +33,7 @@ WhatsApp: +447484828585
 ⌨️ Apple Magic Keyboard<br>
 🖱️ HP 150<br>
 ⌨️ HP 225<br>
+🖱️ Tronic Wireless Mouse<br>
 ⌨️ Logitech 920-006341 iPad Keyboard<br>
 🖱️ Wireless Mouse (Unbranded)
 
@@ -61,6 +61,7 @@ WhatsApp: +447484828585
 
 <h4>Styluses</h4>
 ✏️ Apple Pencil Generation 1<br>
+✏️ Apple Pencil Generation 2<br>
 ✏️ Awind WePresent AirPad TWL530<br>
 ✏️ Wacom CTH-460
 
