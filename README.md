@@ -15,6 +15,7 @@ WhatsApp: +447484828585
 💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U) - Linux Debian 13<br>
 💻 Apple iPad 1st Generation - iPadOS 12<br>
 💻 Apple iPad 5th Generation - iPadOS 16<br>
+💻 Apple iPad A16 11th Generation - iPadOS 26<br>
 💻 ASUS ZenBook 13 UX333 (Intel Core i5) - Windows 11<br>
 💻 Lenovo IDEAPAD Slim 5i (Intel Core i5) - Windows 11<br>
 💻 MacBook Air (13-inch, Early 2015) - MacOS Sierra
