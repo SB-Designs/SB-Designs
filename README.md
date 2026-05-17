@@ -2,15 +2,28 @@
 <h1>SB Designs</h1>
 
 <h2>About</h2>
-Hello, I'm Sebastian! I'm an app/web dev and graphic designer from London and make lots of projects about transport as I love planes and trains. I founded SB Designs in 2022 and I'm experienced in HTML, CSS, JS and Python, plus I'm learning other JS libraries and frameworks.<br><br>
+Hello, I'm Sebastian! I'm an app/web dev and graphic designer from London and make lots of projects about transport as I love planes and trains. I founded SB Designs in 2022, and have a big interest in engineering, and computing. I have a basic knowledge of hardware and networking (I'm in the software field more!). Currently studying GCSE Computer Science (OCR J277).
 
-Currently studying GCSE Computer Science (OCR J277).
+<h2>Languages</h2>
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Learning Lua and C++</li>
+</ul>
 
-<h2>Contact</h2>
-Email: hello@sbdesigns.is-a.dev<br>
-WhatsApp: +447484828585
+<h2>Operating Systems</h2>
+<ul>
+  <li>Windows</li>
+  <li>macOS</li>
+  <li>Linux</li>
+  <li>Android</li>
+  <li>iOS</li>
+  <li>iPadOS</li>
+</ul>
 
-<h2>Tech List</h2>
+<h2>My Tech List</h2>
 <h4>Laptops/Tablets</h4>
 💻 Acer Aspire 5 A515-45 (Ryzen 3 5300U) - Linux Debian 13<br>
 💻 Apple iPad 1st Generation - iPadOS 12<br>
